@@ -1,0 +1,23 @@
+
+.home-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  }
+  
+  .home-container h1 {
+    font-size: 24px;
+    color: rgb(248, 78, 78);
+    margin-bottom: 10px;
+  }
+  
+  .home-container p {
+    font-size: 16px;
+    color: #0e0d0dfd;
+  }
+
+  
+  
